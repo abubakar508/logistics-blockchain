@@ -5,7 +5,7 @@ This repository hosts an innovative integration on a logistics website, harmoniz
 ## Tech Stack
 - **Frontend**: Next.js 14
 - **Backend**: Node.js & Epress JS
-- **Blockchain**: Solidity, FOundry & ThirdWeb
+- **Blockchain**: Solidity, Foundry & ThirdWeb
 
 ## Features
 - Seamless frontend/backend integration
